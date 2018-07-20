@@ -5,6 +5,8 @@
 @import url("portfolioStyle.css");
 @import url("testimonialsStyle.css");
 @import url("funfactStyle.css");
+@import url("footerStyle.css");
+
 @font-face {
     font-family: asap-regular;
     src: url("../fonts/Asap-Regular.ttf");
@@ -37,7 +39,6 @@
     width: 100%;
     display: flex;
     flex-direction: column;
-    /*background-color: #550000;*/
 }
 
 .container{
