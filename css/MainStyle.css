@@ -3,9 +3,15 @@
 @import url("serviceStyle.css");
 @import url("skillsStyle.css");
 @import url("portfolioStyle.css");
+@import url("testimonialsStyle.css");
 @font-face {
     font-family: asap-regular;
     src: url("../fonts/Asap-Regular.ttf");
+}
+
+@font-face {
+    font-family: asap-italic;
+    src: url("../fonts/Asap-Italic.ttf");
 }
 
 @font-face {
