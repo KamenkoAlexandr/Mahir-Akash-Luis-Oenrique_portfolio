@@ -1,0 +1,19 @@
+.skills{
+    padding-top: 118px;
+    padding-bottom: 125px;
+}
+
+.skills .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills h2{
+    font-family: asap-bold;
+    font-size: 46px;
+    color: #717171;
+    letter-spacing: 5px;
+    padding-bottom: 60px;
+}

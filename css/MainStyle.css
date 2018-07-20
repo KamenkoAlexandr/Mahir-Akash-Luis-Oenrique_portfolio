@@ -1,6 +1,7 @@
 @import url("headerStyle.css");
 @import url("aboutStyle.css");
 @import url("serviceStyle.css");
+@import url("skillsStyle.css");
 @font-face {
     font-family: asap-regular;
     src: url("../fonts/Asap-Regular.ttf");
