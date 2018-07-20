@@ -1,0 +1,47 @@
+.service{
+    background: #f6f6f6;
+}
+
+.service h2{
+    font-family: asap-bold;
+    font-size: 46px;
+    color: #6f6f6f;
+    letter-spacing: 5px;
+}
+
+.title-with-head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.links-to-services{
+    /*margin-top: 50px;*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.links-to-services img{
+    padding: 50px 157px;
+}
+
+.links-to-services p{
+    font-family: asap-medium;
+    font-size: 24px;
+    color: #4d4d4d;
+    position: absolute;
+    width: 208px;
+    margin-left: 36px;
+}
+
+.service-description{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+.service .container{
+    padding-top: 118px;
+    padding-bottom: 119px;
+}

@@ -11,7 +11,7 @@ header{
 
 .nav-element{
     text-decoration: none;
-    font-family: asap;
+    font-family: asap-regular;
     color: #838383;
     font-size: 16px;
     padding-left: 16px;
@@ -24,13 +24,13 @@ header{
 }
 
 h1{
-    font-family: asap;
+    font-family: asap-medium;
     font-size: 90px;
     color: #4d4d4d;
 }
 
 h4{
-    font-family: asap;
+    font-family: asap-medium;
     font-size: 22px;
     color: #9f9f9f;
 }
@@ -45,7 +45,7 @@ h4{
     font-weight: bold;
     padding: 18px 30px;
     font-size: 16px;
-    font-family: asap;
+    font-family: asap-medium;
     color: #4d4d4d;
     width: 160px;
     border: 1px solid #4d4d4d;
@@ -56,10 +56,10 @@ h4{
     background: #fff;
 }
 
-.content{
+.header .content{
     display: flex;
     flex-direction: column;
-    margin-top: 117px;
+    margin-top: 125px;
 }
 
 .content h4{

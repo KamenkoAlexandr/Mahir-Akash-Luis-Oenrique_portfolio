@@ -3,21 +3,22 @@
     flex-direction: row;
     justify-content: space-between;
     margin-top: 100px;
-    padding-bottom: 20px;
+    padding-bottom: 124px;
 }
 
 .about h2{
-    font-family: asap;
+    font-family: asap-bold;
     font-size: 46px;
     font-weight: bold;
     color: #717171;
-    width: 300px;
+    width: 350px;
+    letter-spacing: 5px;
 }
 
 .about .article-about-me{
     margin-top: 10px;
     line-height: 23px;
-    font-family: asap;
+    font-family: asap-regular;
     font-size: 16px;
     color: #4d4d4d;
     width: 467px;
@@ -25,12 +26,12 @@
 
 .download{
     text-decoration: none;
-    font-family: asap;
+    font-family: asap-medium;
     font-size: 16px;
     font-weight: bold;
     color: #4d4d4d;
     border: 1px solid #4d4d4d;
-    padding: 10px 47px;
+    padding: 15px 47px;
 }
 
 .button-download{
@@ -40,4 +41,8 @@
 .download:hover{
     border: 1px solid #ffffff;
     background: rgba(59, 56, 61, 0.3);
+}
+
+.about .content {
+    margin-top: 85px;
 }
