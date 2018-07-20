@@ -4,6 +4,7 @@
 @import url("skillsStyle.css");
 @import url("portfolioStyle.css");
 @import url("testimonialsStyle.css");
+@import url("funfactStyle.css");
 @font-face {
     font-family: asap-regular;
     src: url("../fonts/Asap-Regular.ttf");

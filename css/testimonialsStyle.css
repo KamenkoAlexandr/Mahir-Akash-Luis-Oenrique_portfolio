@@ -40,10 +40,11 @@
 
 .testimonials p{
     color: #7a7a7a;
-    font-size: 22px;
+    font-size: 18px;
     font-family: asap-regular;
     letter-spacing: 1px;
     line-height: 22px;
+    text-transform: uppercase;
 }
 
 .testimonials .description{
