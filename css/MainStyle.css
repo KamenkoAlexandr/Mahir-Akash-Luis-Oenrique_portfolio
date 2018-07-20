@@ -2,6 +2,7 @@
 @import url("aboutStyle.css");
 @import url("serviceStyle.css");
 @import url("skillsStyle.css");
+@import url("portfolioStyle.css");
 @font-face {
     font-family: asap-regular;
     src: url("../fonts/Asap-Regular.ttf");
@@ -34,5 +35,5 @@
 
 .container{
     margin: 0 auto;
-    width: 1170px;
+    width: 1230px;
 }
